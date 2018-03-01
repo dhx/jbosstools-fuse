@@ -1,6 +1,6 @@
 # JBoss Fuse Tooling for Eclipse
 
-Please visit our [project site](http://tools.jboss.org/features/apachecamel.html) or the [documentation provided by _Red Hat_](https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.3/html/tooling_tutorials/) to learn more about _JBoss Fuse Tooling_ .
+Please visit our [project site](http://tools.jboss.org/features/fusetools.html) or the [documentation provided by _Red Hat_](https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.3/html/tooling_tutorials/) to learn more about _JBoss Fuse Tooling_ .
 
 ## Summary
 
